@@ -5,6 +5,8 @@ Version 1.0
 A Dungeon Crawler game based on K-ON!. 
 The game is a fork of Heroine Dusk https://github.com/clintbellanger/heroine-dusk‎
 
+Play at https://rawgithub.com/aioiyuko/k-on-bftgc/master/index.html
+
 ## Technology
 
 The game is written in Javascript using HTML5 canvas.
