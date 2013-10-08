@@ -19,7 +19,7 @@ The game is written in Javascript using HTML5 canvas.
 ## License
 
 * Some of the visual art and code was created by Clint Bellanger.
-* The rest of the visual and code art was created by me.
+* The rest of the visual art and code was created by me.
 * The visual art is released under CC-BY-SA 3.0, with later versions permitted.
 * Some of the visual art (character images) was created by heavily modifying copyrighted images. I don't know the legal status of this.
 * The code is released under GPL v3, with later versions permitted.
