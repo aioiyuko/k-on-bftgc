@@ -99,15 +99,15 @@ function info_logic() {
 	redraw = true;
   }
 
-  if (action_checkuse(BUTTON_POS_BURN) && avatar.mp > 0 && avatar.spellbook >= 2) {
+  if (action_checkuse(BUTTON_POS_FIRE) && avatar.mp > 0 && avatar.spellbook >= 2) {
     power_map_burn();
     redraw = true;
   }
   
-  if (action_checkuse(BUTTON_POS_UNLOCK) && avatar.mp > 0 && avatar.spellbook >= 3) {
-    power_map_unlock();
-    redraw = true;
-  }
+  //if (action_checkuse(BUTTON_POS_UNLOCK) && avatar.mp > 0 && avatar.spellbook >= 3) {
+  //  power_map_unlock();
+  //  redraw = true;
+  //}
 
 }
 
